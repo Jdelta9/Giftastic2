@@ -1,6 +1,6 @@
 body {
-	background-color:#337ab7;
-	background:url("ahiddentreas.jpg");
+	background-color:lightslategray;
+	
 }
 
 .jumbotron.col-lg-12.col-md-12.col-sm-12 {
@@ -10,28 +10,28 @@ body {
 }
 
 div#Masthead {
-	background: url("ahiddentreas.jpg");
+	background-color: lightslategray;
 }
 
 h1.text-center {
 	color: #ffffff;
 	font-weight: bolder;
 	text-shadow:
-	-3px -3px 0 #000,
-	3px -3px 0 #000,
-	-3px 3px 0 #000,
-	3px 3px 0 #000;
+	3px 3px 0#a671ce,
+	3px 3px 0#a671ce,
+	3px 3px 0#a671ce,
+	3px 3px 0#a671ce;
 
 }
 
 div#buttons-view {
-	background-color: rgb(248, 245, 63);
+	background-color: rgb(94, 85, 142);
 	border: 2px solid white;
 }
 
 
 div#gif-display {
-	background: url("ahiddentreas.jpg");
+	background-color:lightslategray;
 	border: 2px solid white;
 	margin-top: 20px;
 	margin-bottom: 40px;
