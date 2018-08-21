@@ -1,6 +1,6 @@
 body {
 	background-color:#337ab7;
-	background:url("geo.jpg");
+	background:url("ahiddentreas.jpg");
 }
 
 .jumbotron.col-lg-12.col-md-12.col-sm-12 {
@@ -10,7 +10,7 @@ body {
 }
 
 div#Masthead {
-	background: url("geo.jpg");
+	background: url("ahiddentreas.jpg");
 }
 
 h1.text-center {
@@ -31,7 +31,7 @@ div#buttons-view {
 
 
 div#gif-display {
-	background: url("geo.jpg");
+	background: url("ahiddentreas.jpg");
 	border: 2px solid white;
 	margin-top: 20px;
 	margin-bottom: 40px;
