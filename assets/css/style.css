@@ -1,6 +1,6 @@
 body {
 	background-color:#337ab7;
-	background:url("concept_geometric_shapes_background_vector_536424");
+	background:url("geo.jpg");
 }
 
 .jumbotron.col-lg-12.col-md-12.col-sm-12 {
@@ -10,7 +10,7 @@ body {
 }
 
 div#Masthead {
-	background: url("concept_geometric_shapes_background_vector_536424");
+	background: url("geo.jpg");
 }
 
 h1.text-center {
@@ -31,7 +31,7 @@ div#buttons-view {
 
 
 div#gif-display {
-	background: url("concept_geometric_shapes_background_vector_536424");
+	background: url("geo.jpg");
 	border: 2px solid white;
 	margin-top: 20px;
 	margin-bottom: 40px;
