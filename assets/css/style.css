@@ -9,7 +9,7 @@ body {
 }
 
 div#Masthead {
-	background: url("../images/heroes-vs-villains1.png");
+	background: url("");
 }
 
 h1.text-center {
@@ -30,7 +30,7 @@ div#buttons-view {
 
 
 div#gif-display {
-	background: url("../images/heroes-vs-villains1.png");
+	background: rgba(255, 255, 255, 0.5);
 	border: 2px solid white;
 	margin-top: 20px;
 	margin-bottom: 40px;
